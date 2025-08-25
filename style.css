@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(0, 0, 0)
+}
+
+.pr {
+    background-color: black;
+    display: block;
+}
+
+img {
+    width: 100px;
+}

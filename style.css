@@ -35,7 +35,7 @@ a {
 }
 
 .menu a:hover {
-    color: #baa1a1;
+    color: #ff0000;
 }
 
 .imagens {
@@ -59,7 +59,7 @@ a {
 
 .textos h1 {
     font-family: "Nothing You Could Do";
-    color: white;
+    color: rgb(255, 0, 0);
     font-size: 42px;
     margin-bottom: 10px;
 }
